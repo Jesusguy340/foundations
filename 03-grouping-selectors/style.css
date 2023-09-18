@@ -1,0 +1,14 @@
+.black-button,
+.yellow-button {
+    font-size: 28px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.black-button {
+    background: black;
+    color: white;
+}
+
+.yellow-button {
+    background: yellow;
+}
